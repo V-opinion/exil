@@ -1,0 +1,5 @@
+ 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://religions-peace-democracy.cf/sitemap.xml
