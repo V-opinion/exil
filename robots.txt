@@ -1,5 +1,5 @@
-
+ 
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://multireligionvalsystem.cf/sitemap.xml
+Sitemap: https://religions-peace-democracy.cf/sitemap.xml
