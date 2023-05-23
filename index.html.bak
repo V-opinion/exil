@@ -1,13 +1,8 @@
 <!doctype html>
-<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
-<head>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]--><!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]--><head>
 	<meta charset="UTF-8">
 	
-	<title>Angelo - Pixel Artist</title>
+	<title>Miljömodellen för demokrati, demokratin från teori till praktik .</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
@@ -76,7 +71,7 @@
 	
 	<!--BEGIN Header-->
 	<header id="header">
-		<a href="index.html" class="header-logo"><img src="images/demo/angelo-logo.png" alt="Angelo - Pixel Artist" style="margin:-3px 0;" /></a>
+		<a href="index.html" class="header-logo"><img src="%images/demo/angelo-logo.png" alt="Miljömodellen för demokrati, demokratin från teori till praktik - med Multireligionvalsystem som grund" style="margin:-3px 0;" /></a>
 			
 		<section id="header-menu">
 			<!--BEGIN Pure css double line effect-->
@@ -86,7 +81,7 @@
 			
 			<!--BEGIN menu-->
 			<ul class="sf-menu">
-				<li>
+				<li class="current-menu-item">
 					<a href="index.html">Blog</a>
 					<ul>
 						<li><a href="index.html">Blog Index</a></li>
@@ -94,29 +89,29 @@
 					</ul>
 				</li>
 				<li>
-					<a href="#">Dropdown</a>
+					<a href="#">FDU</a>
 					<ul>
-						<li><a href="#">Tellus Risus</a></li>
-						<li><a href="#">Venenatis Adipiscing</a></li>
-						<li><a href="#">Sollicitudin Ligula</a></li>
-						<li><a href="#">More Drops</a>
+						<li><a href="#">Fred</a></li>
+						<li><a href="#">Demokrati</a></li>
+						<li><a href="#">Hållbar utveckling</a></li>
+						<li><a href="#">Multireligionvalsystem</a>
 							<ul>
-								<li><a href="#">Fusce Egestas</a></li>
-								<li><a href="#">Cras Cursus</a></li>
-								<li><a href="#">Condimentum Mollis</a></li>
-								<li><a href="#">Ornare Commodo</a></li>
+								<li><a href="#">Multireligionvalsystem</a></li>
+								<li><a href="#">Multireligionval</a></li>
+								<li><a href="#">Multireligionstödet</a></li>
+								<li><a href="#">Ländernas ccTLDs</a></li>
 							</ul>
 						</li>
 					</ul>
 				</li>
-				<li class="current-menu-item">
-					<a href="about.html">About Me</a>
+				<li>
+					<a href="about.html">About DPNS</a>
 				</li>
 				<li>
-					<a href="portfolio_1col.html">Portfolio</a>
+					<a href="portfolio_1col.html">Multireligionvalsystem</a>
 					<ul>
-						<li><a href="portfolio_1col.html">Portfolio 1 Column</a></li>
-						<li><a href="portfolio_2col.html">Portfolio 2 Columns</a></li>
+						<li><a href="portfolio_1col.html">Multireligionval</a></li>
+						<li><a href="portfolio_2col.html">Multireligionstödet</a></li>
 						<li><a href="portfolio_3col.html">Portfolio 3 Columns</a></li>
 						<li><a href="portfolio_item.html">Portfolio Item</a></li>
 					</ul>
@@ -135,60 +130,107 @@
 	</header>
 	<!--END Header-->
 	
+	<!--BEGIN Slider-->
+	<section id="slider">
+		<div id="nivo-slider">
+			<img src="images/demo/slide.png" alt="The Last Judgment" title="De Nya Svenskarna - DPNS" />
+			<img src="images/demo/slide.png" alt="The Annunciation" title="The Annunciation - Leonardo da Vinci" />
+			<img src="images/demo/slide.png" alt="Ludwig van Beethoven" title="Ludwig van Beethoven - Joseph Karl Stieler" />
+			<iframe src="https://storymaps.arcgis.com/stories/01915f4e16ea46d28b21a46b1b3be91e" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+
+		</div>
+	</section>
+	<!--END Slider-->
+	
 	<!--BEGIN Content-->
 	<div class="wrapper">
 	
 		<!--BEGIN Main Content-->
-		<article id="main" class="about-page">
+		<article id="main" class="portfolio-page">
+			
+			<section class="post">
+				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
+				<div class="post-date">
+					<strong>21</strong>
+					<small>May</small>
+				</div>
+				<a href="blog_post.html"><h2 class="post-title">Flagga & ccTLDs</h2></a>
+				<div class="clearfix"></div>
+				<div class="post-info">
+					<span class="posted-by">Posted by: <a href="#">FDU</a></span>
+					<span class="posted-in">Posted in: <a href="#">Reviews</a></span>
+					<span class="post-comments">Comments: <a href="#">21</a></span>
+				</div>
+				<a href="blog_post.html" class="featured-image"><img src="images/demo/featured.png" alt="The Creation of Adam"/></a>
+				<br /><br />
+				<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+				<span class="post-tags">Tags: <a href="#">Bibendum</a>, <a href="#">Sem</a>, <a href="#">Ultricies</a>, <a href="#">Condimentum</a></span>
+				<a href="blog_post.html" class="button">Continue</a>
+			</section>
+			
+			<section class="post">
+				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
+				<div class="post-date">
+					<strong>20</strong>
+					<small>May</small>
+				</div>
+				<a href="#"><h2 class="post-title">Multireligionvalsystem</h2></a>
+				<div class="clearfix"></div>
+				<div class="post-info">
+					<span class="posted-by">Posted by: <a href="#">FDU</a></span>
+					<span class="posted-in">Posted in: <a href="#">Tutorials</a></span>
+					<span class="post-comments">Comments: <a href="#">19</a></span>
+				</div>
+				<a href="#" class="featured-image"><img src="images/demo/featured.png" alt="How to Draw a Human Body" /></a>
+				<br /><br />
+				<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+				<span class="post-tags">Tags: <a href="#">Egestas</a>, <a href="#">Quam</a>, <a href="#">Ullamcorper</a>, <a href="#">Aenean</a>, <a href="#">Cras</a></span>
+				<a href="#" class="button">Continue</a>
+			</section>	
+			
+			<section class="post">
+				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
+				<div class="post-date">
+					<strong>18</strong>
+					<small>May</small>
+				</div>
+				<a href="#"><h2 class="post-title">Multireligionval</h2></a>
+				<div class="clearfix"></div>
+				<div class="post-info">
+					<span class="posted-by">Posted by: <a href="#">FDU</a></span>
+					<span class="posted-in">Posted in: <a href="#">Thoughts</a></span>
+					<span class="post-comments">Comments: <a href="#">23</a></span>
+				</div>
+				<a href="#" class="featured-image"><img src="images/demo/featured.png" alt="Passion for Piano"/></a>
+				<br /><br />
+				<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+				<span class="post-tags">Tags: <a href="#">Sem</a>, <a href="#">Parturient</a>, <a href="#">Aenean</a></span>
+				<a href="#" class="button">Continue</a>
+			</section>	
+			
+			<section class="post">
+				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
+				<div class="post-date">
+					<strong>17</strong>
+					<small>May</small>
+				</div>
+				<a href="#"><h2 class="post-title">Multireligionstödet</h2></a>
+				<div class="clearfix"></div>
+				<div class="post-info">
+					<span class="posted-by">De  sådde  och  vi  åt , vi  sår  och  de  äter <a href="#">FDU</a></span>
+					<span class="posted-in">DPNS<a href="#">DPNSä</a></span>
+					<span class="post-comments">ccTLDs <a href="#">Flagga</a></span>
+				</div>
+				<a href="#" class="featured-image"><img src="images/demo/featured.png" alt="Shakespeare Classics"/></a>
+				<br /><br />
+				<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+				<span class="post-tags">Tags: <a href="#">Ullamcorper</a>, <a href="#">Tortor</a>, <a href="#">Tellus</a>, <a href="#">Egestas</a>, <a href="#">Cras</a></span>
+				<a href="#" class="button">Continue</a>
+			</section>	
+				
 			<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
-			
-			<section id="who-is">
-				<h2>Who is John Doe</h2>
-				<a href="images/demo/you3.png" data-rel="prettyPhoto" title="This is me, John Doe."><img src="images/demo/you2.png" alt="John Doe" class="alignright" /></a>
-				<p>Fusce dapibus, tellus ac cursus commodo, tortor maris condimentum nibh, ut fermentum maustasa justos sit	risus. Curabitur blandit tempus por titor.</p>
-				<p>Donec, ullamcorper nulla non metus ator inte fringilla. Aenean eu lefo quam. Pelleantesque ornare sem lacin quam venenatis <a href="#">vestibulum</a>. Morbi leo risegaus, porta	consec tetur ac, pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-				<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vesti bulum id ligula porta felis euismod semper. Curabitur blandi tempus portitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-				<br />
-			</section><!--END #who-is-->
-			
-			<section id="some-testimonial">
-				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
-				<blockquote>
-				“Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vesti bulum id ligula porta felis euismod semper. Nulla vitae elit lib ero, a pharetra augue. Maecenas faucibus mollis interdum.”
-				</blockquote>
-				<span class="quoteauthor">Michelangelo, Lorem Ipsum Magazine</span>
-				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
-				<br />
-			</section><!--END #some-testimonial-->
-				
-			<section id="my-experience">
-				<h3>Experience</h3>
-				<ul class="ul-arrow">
-					<li>Commodo cursus - Magna, Vel Scelerisque <span class="period">(April 2010 - Present)</span></li>
-					<li>Consectetur - Vesti Bulum, CA <span class="period">(December 2008 - April 2010)</span></li>
-					<li>Porta Felis -  Euismod, NY  <span class="period">(July 206 - December 2008)</span></li>
-				</ul>
-			</section><!--END #my-experience-->
-				
-			<section id="my-awards">
-				<h3>Awards</h3>
-				<ul class="ul-arrow">
-					<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit (<a href="#">link</a>)</li>
-					<li>Nulla vitae elit libero, a pharetra augue (<a href="#">link</a>)</li>
-					<li>Aenean lacinia bibendum nulla sed consectetur (<a href="#">link</a>)</li>
-				</ul>
-				<br />
-			</section><!--END #my-awards-->
-				
-			<section id="get-in-touch">
-				<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
-				
-				<a href="contact.html" class="bigbutton getintouch">Get <span class="em">in</span> Touch</a>
-				<h3>Work With Me</h3>
-				<p>Maecenas sed diam eget risus varius si lorem am.</p>
-			</section><!--END #get-in-touch-->
-			
-			<div class="divider"></div><div class="clearfix"></div><!--double line divider-->
+			<div class="nav-prev"><a href="#">&larr; Previous Page</a></div>
+			<div class="nav-next"><a href="#">Next Page &rarr;</a></div>
 		</article>
 		<!--END Main Content-->
 		
@@ -206,7 +248,15 @@
 				</li>
 				<!--END Search Box-->
 				
-				<!--BEBIN Banners-->
+				<!--BEGIN About-->
+					<li>
+						<h3>About DPNS</h3>
+						<img src="images/demo/you.png" alt="John Doe" class="alignright border" />
+						<p>Hi, I’m John Doe and I make pua molinis	euismod. Cras justo odioda pibus acifade ilisis in, egestas eget quam. Donec ulam	mcorper nullanos mettus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a phareta. Donec id elit... <a href="about.html">Read More</a></p>
+					</li>
+				<!--END About-->
+				
+				<!--BEGIN Banners-->
 				<li>
 					<div class="banner-widget left">
 						<a href="http://activeden.net?ref=meydjer" target="_blank"><img src="images/demo/banner-activeden.jpg" alt="ActiveDen" /></a>
@@ -231,25 +281,25 @@
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="How to Draw a Human Body" /></a>
 									<a href="#"><h6>How to Draw a Human Body</h6></a>
-									<a href="#"><span>May 20, 2011</span></a>
+									<a href="#"><span>Jun 20, 2011</span></a>
 									<a href="#"><span>Tutorials</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="The Creation of Adam" /></a>
-									<a href="#"><h6>The Creation of Adam</h6></a>
-									<a href="#"><span>May 21, 2011</span></a>
+									<a href="#"><h6>Flagga % ccTLDs</h6></a>
+									<a href="#"><span>Jun 21, 2011</span></a>
 									<a href="#"><span>Reviews</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="What Defines a Genius?" /></a>
 									<a href="#"><h6>What Defines a Genius?</h6></a>
-									<a href="#"><span>May 18, 2011</span></a>
+									<a href="#"><span>Jun 18, 2011</span></a>
 									<a href="#"><span>Thoughts</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="Classic Art in The St. Peter's Basilica" /></a>
 									<a href="#"><h6>Classic Art in The St. Peter's Basilica</h6></a>
-									<a href="#"><span>May 17, 2011</span></a>
+									<a href="#"><span>Jun 17, 2011</span></a>
 									<a href="#"><span>Off Topic</span></a>
 								</li>
 							</ul>
@@ -258,26 +308,26 @@
 							<ul class="combo-list">
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="The Creation of Adam" /></a>
-									<a href="#"><h6>The Creation of Adam</h6></a>
-									<a href="#"><span>May 21, 2011</span></a>
+									<a href="#"><h6>Multireligionvalsystem</h6></a>
+									<a href="#"><span>Jun 21, 2011</span></a>
 									<a href="#"><span>Reviews</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="How to Draw a Human Body" /></a>
-									<a href="#"><h6>How to Draw a Human Body</h6></a>
-									<a href="#"><span>May 20, 2011</span></a>
+									<a href="#"><h6>Multireligionvalsystem</h6></a>
+									<a href="#"><span>Jan 10, 2022</span></a>
 									<a href="#"><span>Tutorials</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="What Defines a Genius?" /></a>
 									<a href="#"><h6>What Defines a Genius?</h6></a>
-									<a href="#"><span>May 18, 2011</span></a>
+									<a href="#"><span>Jun 18, 2011</span></a>
 									<a href="#"><span>Thoughts</span></a>
 								</li>
 								<li>
 									<a href="#"><img src="images/demo/thumbnail.png" alt="Classic Art in The St. Peter's Basilica" /></a>
 									<a href="#"><h6>Classic Art in The St. Peter's Basilica</h6></a>
-									<a href="#"><span>May 17, 2011</span></a>
+									<a href="#"><span>Jun 17, 2011</span></a>
 									<a href="#"><span>Off Topic</span></a>
 								</li>
 							</ul>
@@ -303,8 +353,8 @@
 							</ul>
 						</div>
 						<div id="posts-combo-tags">
-							<a href="#">music</a>
-							<a href="#">philosophy</a>
+							<a href="#">Teorin</a>
+							<a href="#">praktisk</a>
 							<a href="#">painting</a>
 							<a href="#">sculpture</a>
 							<a href="#">art</a>
@@ -322,6 +372,34 @@
 					</script>
 				</li>
 				<!--END Posts Combo-->
+				<a href="https://twitter.com/DPNS?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DPNS</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+				<!--BEGIN Archive-->
+					<li class="archive">
+						<h3>Våra reformar</h3>
+						<ul class="cat-list archive">
+							<li><a href="#">June 2011</a></li>
+							<li><a href="#">May 2011</a></li>
+							<li><a href="#">April 2011</a></li>
+							<li><a href="#">March 2011</a></li>
+							<li><a href="#">February 2011</a></li>
+							<li><a href="#">January 2011</a></li>
+						</ul>
+						<script type="text/javascript">
+							$(document).ready(function() {
+								$(".cat-list.archive li").each(
+									function(i){
+										if (((i+1) % 2)) {
+											$(this).addClass("no-margin-left");
+										}
+									}
+								);
+								$(".cat-list.archive li:lt(2)").addClass("no-border-top");
+								$('.cat-list.archive li:last-child').prev('li').andSelf().addClass("no-border-bottom");
+							});
+						</script>
+					</li>
+				<!--END Archive-->
 				
 			</ul>
 		</aside>
@@ -341,13 +419,13 @@
 		<section class="one_fourth">
 			<ul>
 				<li>
-					<h3>All Categories</h3>
+					<h3>FDU</h3>
 					<ul class="cat-list">
-						<li><a href="#">Reviews</a></li>
-						<li><a href="#">Classics</a></li>
-						<li><a href="#">Thoughts</a></li>
-						<li><a href="#">Tutorials</a></li>
-						<li><a href="#">Off Topic</a></li>
+						<li><a href="#">Fred</a></li>
+						<li><a href="#">Demokrati</a></li>
+						<li><a href="#">Hållbar utveckling</a></li>
+						<li><a href="#">Multireligionvalsystem</a></li>
+						<li><a href="#">Flagga & ccTLDs</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -355,11 +433,11 @@
 		<section class="one_fourth">
 			<ul>
 				<li>
-					<h3>Pages</h3>
+					<h3>DPNS</h3>
 					<ul class="cat-list">
 						<li><a href="#">Blog</a></li>
-						<li><a href="#">About Me</a></li>
-						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">About De Nya Svenskarna</a></li>
+						<li><a href="#">App</a></li>
 						<li><a href="#">Contact</a></li>
 					</ul>
 				</li>
@@ -376,7 +454,7 @@
 		<section class="one_fourth">
 			<ul>
 				<li>
-					<h3>Newsletter</h3>
+					<h3>Podd</h3>
 					<form action="newsletter" class="newsletter-form">
 						<input type="text" name="newsletter" id="newsletter" class="input-text" placeholder="Your email" />
 						<input type="submit" value="Add" class="input-submit" />
@@ -384,8 +462,8 @@
 				</li>
 				<li>
 					<h3>Get Social</h3>
-					<a href="#" class="social-icon facebook">Facebook</a>
-					<a href="#" class="social-icon twitter">Twitter</a>
+					<a href="https://facebook.com/denyasvenskarna" class="social-icon facebook">Facebook</a>
+					<a href="https://twitter.com/DPNS" class="social-icon twitter">Twitter</a>
 					<a href="#" class="social-icon flickr">Flickr</a>
 					<a href="#" class="social-icon vimeo">Vimeo</a>
 					<a href="#" class="social-icon rss">RSS</a>
@@ -397,9 +475,9 @@
 		<div class="footer-divider"></div>
 		
 		<section id="copyright">
-			&copy; Copyright 2011 - Angelo HTML Template. All rights reserved. Designed and developed by <a href="http://meydjer.com/" target="_blank">Meydjer Luzzoli</a>.
+			&copy; Copyright 2022 - FDU. All rights reserved. Designed and developed by <a href="https://multireligionvalsystem.ml/" target="_blank">De Nya Svenskarna</a>.
 		</section>
-	
+
 		</div>
 		</div>
 	</footer>
